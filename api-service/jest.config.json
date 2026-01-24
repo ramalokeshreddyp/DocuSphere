@@ -1,0 +1,18 @@
+{
+  "testEnvironment": "node",
+  "transform": {},
+  "testMatch": [
+    "**/tests/**/*.test.js"
+  ],
+  "setupFilesAfterEnv": ["<rootDir>/tests/jest.setup.js"],
+  "collectCoverageFrom": [
+    "src/**/*.js",
+    "!src/app.js"
+  ],
+  "coveragePathIgnorePatterns": [
+    "/node_modules/"
+  ],
+  "moduleNameMapper": {
+    "^(\\.{1,2}/.*)\\.js$": "$1"
+  }
+}

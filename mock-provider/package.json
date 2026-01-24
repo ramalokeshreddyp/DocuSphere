@@ -1,0 +1,14 @@
+{
+  "name": "mock-provider",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Mock external notification provider with configurable failure rate",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.0",
+    "dotenv": "^16.4.0"
+  }
+}
