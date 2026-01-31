@@ -1,0 +1,13 @@
+{
+  "siteTitle": "Docs Portal",
+  "searchPlaceholder": "Search documentation",
+  "themeToggle": "Toggle theme",
+  "sidebarToggle": "Toggle sidebar",
+  "sidebarLabel": "On this site",
+  "tocLabel": "On this page",
+  "feedbackLabel": "Was this page helpful?",
+  "feedbackSuccess": "Thanks for your feedback!",
+  "editThisPage": "Edit this page on GitHub",
+  "editLink": "https://github.com/example/docs/blob/main/_docs",
+  "apiReferenceTitle": "API Reference"
+}

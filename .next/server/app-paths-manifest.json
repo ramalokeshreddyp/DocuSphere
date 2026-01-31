@@ -1,0 +1,5 @@
+{
+  "/api/search-index/route": "app/api/search-index/route.js",
+  "/[locale]/page": "app/[locale]/page.js",
+  "/[locale]/docs/[version]/[...slug]/page": "app/[locale]/docs/[version]/[...slug]/page.js"
+}

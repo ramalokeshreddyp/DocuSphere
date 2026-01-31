@@ -1,0 +1,13 @@
+{
+  "siteTitle": "Portail de Documentation",
+  "searchPlaceholder": "Rechercher dans la documentation",
+  "themeToggle": "Changer le thème",
+  "sidebarToggle": "Basculer la barre latérale",
+  "sidebarLabel": "Sur ce site",
+  "tocLabel": "Sur cette page",
+  "feedbackLabel": "Cette page vous a-t-elle aidé ?",
+  "feedbackSuccess": "Merci pour votre retour !",
+  "editThisPage": "Modifier cette page sur GitHub",
+  "editLink": "https://github.com/example/docs/blob/main/_docs",
+  "apiReferenceTitle": "Référence API"
+}
